@@ -1,0 +1,3 @@
+A simple Role Playing Game based on the tutorial created by SOSCSRPG (https://soscsrpg.com/)
+
+Work in progress...
